@@ -1,8 +1,8 @@
 # Salesforce_Blood_Donor_Management_System
 
 Project link 
-C:/Users/HP/Downloads/phases.pdf%20(2).pdf
 
+file:///C:/Users/HP/Downloads/phases.pdf%20(2).pdf
 Demo Link 
 https://drive.google.com/file/d/1hqai-dc-WkchSB-Ss1Ke0pEWFT05aAYw/view?usp=drivesdk
 
